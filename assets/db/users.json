@@ -1,0 +1,35 @@
+[
+  {
+    "username": "Andrey_Smirnoffv",
+    "firstName": "Андрей",
+    "lastName": "Смирнов",
+    "isAdmin": true
+  },
+  {
+    "username": "igor_doc80",
+    "firstName": "Igor",
+    "lastName": "Doc",
+    "isAdmin": false
+  },
+  {
+    "username": "hashfuck",
+    "firstName": "В легких",
+    "lastName": "⁤больше дыма , чем воздуха",
+    "isAdmin": false
+  },
+  {
+    "username": "uhylyant7",
+    "firstName": "Crypto",
+    "lastName": "Uhylyant",
+    "isAdmin": false
+  },
+  {
+    "username": "adm_l2hf",
+    "firstName": "ADM",
+    "isAdmin": true
+  },
+  {
+    "firstName": "Игорь",
+    "isAdmin": false
+  }
+]

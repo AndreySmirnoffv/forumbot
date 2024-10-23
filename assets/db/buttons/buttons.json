@@ -1,0 +1,84 @@
+{
+  "buttons": [
+    {
+      "text": "Краски",
+      "callback_data": "1"
+    },
+    {
+      "text": "Премиум +",
+      "callback_data": "2"
+    },
+    {
+      "text": "Премиум +",
+      "callback_data": "3"
+    },
+    {
+      "text": "Кнопка 4",
+      "callback_data": "4"
+    },
+    {
+      "text": "Кнопка 5",
+      "callback_data": "5"
+    },
+    {
+      "text": "Кнопка 6",
+      "callback_data": "6"
+    },
+    {
+      "text": "Кнопка 7",
+      "callback_data": "7"
+    },
+    {
+      "text": "Кнопка 8",
+      "callback_data": "8"
+    },
+    {
+      "text": "Кнопка 9",
+      "callback_data": "9"
+    },
+    {
+      "text": "Кнопка 10",
+      "callback_data": "10"
+    },
+    {
+      "text": "Кнопка 11",
+      "callback_data": "11"
+    },
+    {
+      "text": "Кнопка 12",
+      "callback_data": "12"
+    },
+    {
+      "text": "Кнопка 13",
+      "callback_data": "13"
+    },
+    {
+      "text": "Кнопка 14",
+      "callback_data": "14"
+    },
+    {
+      "text": "Кнопка 15",
+      "callback_data": "15"
+    },
+    {
+      "text": "Кнопка 16",
+      "callback_data": "16"
+    },
+    {
+      "text": "Кнопка 17",
+      "callback_data": "17"
+    },
+    {
+      "text": "Кнопка 18",
+      "callback_data": "18"
+    },
+    {
+      "text": "Кнопка 19",
+      "callback_data": "19"
+    },
+    {
+      "text": "Кнопка 20",
+      "callback_data": "20"
+    }
+  ]
+}

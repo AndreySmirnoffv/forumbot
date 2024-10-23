@@ -1,0 +1,22 @@
+{
+  "name": "kworkbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.66.0",
+    "nodemon": "^3.1.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.4"
+  }
+}
